@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋.
+My name is Okorefe Marho and I am currently on a journey to become a junior cloud engineer in the next 9 months.
+I would appreciate help from like minded individuals who are on a similar journey
 
 <!--
 **OkorefeM/OkorefeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

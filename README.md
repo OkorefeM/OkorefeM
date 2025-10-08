@@ -1,18 +1,48 @@
-## Hi there 👋.
-My name is Okorefe Marho and I am currently on a journey to become a junior cloud engineer in the next 9 months.
-I would appreciate help from like minded individuals who are on a similar journey
+# 👋 Hi, I'm Marho Okorefe
 
-<!--
-**OkorefeM/OkorefeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm an aspiring **Junior Cloud Engineer** currently on an exciting journey of learning, building, and growing in the world of cloud computing.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌩️ About Me
+- 🎓 Background in **Information Systems**
+- 💼 Certified in **CompTIA A+** and **Security+**
+- ☁️ Learning **Microsoft Azure** and **cloud infrastructure management**
+- 🔐 Passionate about **security, automation, and scalable solutions**
+- 🧠 Always exploring new tools, best practices, and real-world projects
+
+---
+
+## 🚀 Current Focus
+- Strengthening my **cloud fundamentals (Azure basics)**
+- Building hands-on projects around:
+  - Virtual Machines
+  - Networking
+  - Storage solutions
+  - Identity and access management
+  - Monitoring and automation
+- Showcasing my progress here through repositories and learning projects
+
+---
+
+## 🛠️ Tools & Technologies
+- **Cloud:** Azure 
+- **Other Skills:** Networking, Troubleshooting, Security principles
+
+---
+
+## 📈 My Learning Journey
+This GitHub serves as my personal documentation hub — a place where I share what I learn, experiment with ideas, and track my growth toward becoming a **Cloud Engineer**.
+
+---
+
+## 🌍 Connect With Me
+- 💼 [LinkedIn](linkedin.com/in/marhookorefe/)
+- ✉️ Email: okorefemarho@gmail.com
+
+---
+
+> “The goal is not just to learn cloud technologies — but to understand how they empower people, businesses, and innovation.”
+
+Thanks for stopping by! 🌤️

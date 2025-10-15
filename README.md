@@ -31,12 +31,12 @@ I'm an aspiring **Junior Cloud Engineer** currently on an exciting journey of le
 
 ---
 
-## 📈 My Learning Journey
+##  My Learning Journey
 This GitHub serves as my personal documentation hub — a place where I share what I learn, experiment with ideas, and track my growth toward becoming a **Cloud Engineer**.
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 - 💼 [LinkedIn](linkedin.com/in/marhookorefe/)
 - ✉️ Email: okorefemarho@gmail.com
 

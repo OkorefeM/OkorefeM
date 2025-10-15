@@ -37,11 +37,11 @@ This GitHub serves as my personal documentation hub — a place where I share wh
 ---
 
 ##  Connect With Me
-- 💼 [LinkedIn](linkedin.com/in/marhookorefe/)
-- ✉️ Email: okorefemarho@gmail.com
+-  [LinkedIn](www.linkedin.com/in/marhookorefe)
+-  Email: okorefemarho@gmail.com
 
 ---
 
 > “The goal is not just to learn cloud technologies — but to understand how they empower people, businesses, and innovation.”
 
-Thanks for stopping by! 🌤️
+Thanks for stopping by! 

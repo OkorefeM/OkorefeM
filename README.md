@@ -37,7 +37,7 @@ This GitHub serves as my personal documentation hub — a place where I share wh
 ---
 
 ##  Connect With Me
--  [LinkedIn](www.linkedin.com/in/marhookorefe)
+-  [LinkedIn](https://www.linkedin.com/in/marhookorefe/)
 -  Email: okorefemarho@gmail.com
 
 ---

@@ -5,17 +5,16 @@ I'm an aspiring **Junior Cloud Engineer** currently on an exciting journey of le
 
 ---
 
-## 🌩️ About Me
-- 🎓 Background in **Information Systems**
-- 💼 Certified in **CompTIA A+** and **Security+**
-- ☁️ Learning **Microsoft Azure** and **cloud infrastructure management**
-- 🔐 Passionate about **security, automation, and scalable solutions**
-- 🧠 Always exploring new tools, best practices, and real-world projects
+##  About Me
+-  Background in **Information Systems**
+-  Certified in **CompTIA A+** and **Security+**
+-  Learning **Cloud computing** 
+  
 
 ---
 
-## 🚀 Current Focus
-- Strengthening my **cloud fundamentals (Azure basics)**
+##  Current Focus
+- Strengthening my **cloud fundamentals**
 - Building hands-on projects around:
   - Virtual Machines
   - Networking
@@ -26,8 +25,8 @@ I'm an aspiring **Junior Cloud Engineer** currently on an exciting journey of le
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Cloud:** Azure 
+##  Tools & Technologies
+- **Cloud:** AWS
 - **Other Skills:** Networking, Troubleshooting, Security principles
 
 ---

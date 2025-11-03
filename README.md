@@ -42,6 +42,5 @@ This GitHub serves as my personal documentation hub — a place where I share wh
 
 ---
 
-> “The goal is not just to learn cloud technologies — but to understand how they empower people, businesses, and innovation.”
 
 Thanks for stopping by! 
